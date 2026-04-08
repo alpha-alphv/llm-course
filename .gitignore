@@ -1,4 +1,8 @@
 .env
+venv312/
 venv/
 chroma_db/
-_pycache_/
+__pycache__
+credentials.json
+.claude/
+.python-version
